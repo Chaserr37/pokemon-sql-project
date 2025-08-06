@@ -1,5 +1,8 @@
 # Pokémon SQL Project
 
+![Pokémon Project Cover](./all-pokemon-pictures-bh730s8zr74xsc2p.webp)
+
+
 ## Project Motivation
 
 I chose the Pokémon dataset because I wanted a project that’s both fun and different from typical business data. Working with Pokémon makes the learning process enjoyable and engaging while still challenging me to apply important SQL skills like data cleaning, string parsing, and advanced querying.
@@ -316,4 +319,5 @@ Result: shedinja was the #1 "glass-cannon" Pokémon with 1 hp to 90 attack.
 | diglett       | 10 | 55     | 5.50               |
 | wiglett       | 10 | 55     | 5.50               |
 | diglett-alola | 10 | 55     | 5.50               |
+
 | deoxys-attack | 50 | 180    | 3.60               |
